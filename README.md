@@ -1,8 +1,8 @@
 # BOOKIE GYM-MANAGEMENT
 
-## username - admin
-## passwork - 123
-## baseurl- http://127.0.0.1:8000/
+### username - admin
+### password - 123
+### baseurl- http://127.0.0.1:8000/
 
 # 🚀 Project Setup
 
