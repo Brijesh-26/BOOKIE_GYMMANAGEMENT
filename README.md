@@ -61,7 +61,7 @@ Welcome to the quick-start guide for your Django project! Get up and running in 
 
    
 
-# 🌈 Django API Endpoints
+# 🌈 API Endpoints
 
 Welcome to the documentation of our vibrant Django API! Below, you'll find details about the available endpoints and their functionalities.
 
